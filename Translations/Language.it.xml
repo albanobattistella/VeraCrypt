@@ -1419,8 +1419,8 @@
     <entry lang="it" key="AFTER_UPGRADE_RESCUE_DISK">It is strongly recommended that you create a new VeraCrypt Rescue Disk (which will contain the new version of the VeraCrypt Boot Loader) by selecting 'System' &gt; 'Create Rescue Disk'.\nDo you want to do it now?</entry>
     <entry lang="it" key="IDC_ALLOW_TRIM_NONSYS_SSD">Permetti comandi TRIM per partizioni/dischi SSD non di sistema</entry>
     <entry lang="it" key="IDC_BLOCK_SYSENC_TRIM">Blocca comandi TRIM sulla partizione/disco di sistema</entry>
-    <entry lang="IT" key="WINDOWS_EFI_BOOT_LOADER_MISSING">ERRORE: il caricatore di sistema Windows EFI non può essere localizzato sul disco. L'operazione verrà interrotta.</entry>
-    <entry lang="IT" key="SYSENC_EFI_UNSUPPORTED_SECUREBOOT">Al momento non è possibile crittografare un sistema se SecureBoot è abilitato e se le chiavi personalizzate di VeraCrypt non sono caricate nel firmware della macchina. SecureBoot deve essere disabilitato nella configurazione del BIOS per consentire il proseguimento della crittografia del sistema.</entry>
+    <entry lang="it" key="WINDOWS_EFI_BOOT_LOADER_MISSING">ERRORE: il caricatore di sistema Windows EFI non può essere localizzato sul disco. L'operazione verrà interrotta.</entry>
+    <entry lang="it" key="SYSENC_EFI_UNSUPPORTED_SECUREBOOT">Al momento non è possibile crittografare un sistema se SecureBoot è abilitato e se le chiavi personalizzate di VeraCrypt non sono caricate nel firmware della macchina. SecureBoot deve essere disabilitato nella configurazione del BIOS per consentire il proseguimento della crittografia del sistema.</entry>
 	<entry lang="it" key="PASSWORD_PASTED_TRUNCATED">Il testo incollato viene troncato perché la lunghezza massima della password è di 64 caratteri</entry>
 	<entry lang="it" key="PASSWORD_MAXLENGTH_REACHED">La password ha già raggiunto la lunghezza massima di 64 caratteri\N\ Nessun carattere aggiuntivo è consentito.</entry>
 	<entry lang="it" key="IDC_SELECT_LANGUAGE_LABEL">Selezionare la lingua da utilizzare durante l'installazione:</entry>
